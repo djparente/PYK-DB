@@ -2,7 +2,7 @@
 
 ## Overview
 
-This is a database describing biochemical, allosteric, mutational, structural, pathological, bioinformatic and computational information about pyruvate kinase isozymes.  This information is contained in the Excel workbook entitled "PYKSubstitutionOME".  The zip file "PYK_Multiple_Sequence_Alignments" contains (i) a sampled MSA for the PYK whole family and (ii) a sampled MSA for the PYK subfamly that contains the human isozymes. 
+This is a database describing biochemical, allosteric, mutational, structural, pathological, bioinformatic and computational information for mutational variants of pyruvate kinase isozymes.  This information is contained in the Excel workbook entitled "PYKSubstitutionOME".  The zip file "PYK_Multiple_Sequence_Alignments" contains (i) a sampled MSA for the PYK whole family and (ii) a sampled MSA for the PYK subfamly that contains the human isozymes. 
 
 ## Status and Version
 
