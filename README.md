@@ -6,7 +6,7 @@ This is a database describing biochemical, allosteric, mutational, structural, p
 
 ## Status and Version
 
-This is Version 1.0 (production-ready release). It was last updated November 21, 2022.
+This is Version 2 (production-ready release). It was last updated November 22, 2022.
 
 The manuscript describing this database is currently under peer review. If - for some reason - you need to cite this database before peer review completes, please contact Dr. Aron Fenton (afenton@kumc.edu) and Dr. Liskin Swint-Kruse (lswint-kruse@kumc.edu) to determine options for citation.
 
