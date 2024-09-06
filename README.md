@@ -10,7 +10,7 @@ This is Version 4 (production-ready release). It was last updated March 29, 2023
 
 More detailed release notes are described below
 
-The manuscript describing this database is currently under peer review. If - for some reason - you need to cite this database before peer review completes, please contact Dr. Aron Fenton (afenton@kumc.edu) and Dr. Liskin Swint-Kruse (lswint-kruse@kumc.edu) to determine options for citation.
+Please cite the following when you use this database: Swint-Kruse, L., L. L. Dougherty, B. Page, T. Wu, P. T. O'Neil, C. B. Prasannan, C. Timmons, Q. Tang, D. J. Parente, S. Sreenivasan, T. Holyoak, and A. W. Fenton. 2023. 'PYK-SubstitutionOME: an integrated database containing allosteric coupling, ligand affinity and mutational, structural, pathological, bioinformatic and computational information about pyruvate kinase isozymes', Database (Oxford), 2023.  
 
 ## Contacts
 
